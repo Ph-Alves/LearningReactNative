@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
 
   cardSelected: {
-    borderColor: '#E51C44',
+    borderColor: '#3243BD',
     backgroundColor: '#1D2766',
   },
 
